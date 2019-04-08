@@ -602,7 +602,7 @@ class Destination extends React.Component {
       Emodal = null;
     }
 
-    const GOOGLE_MAPS_APIKEY  = "AIzaSyAjmeDspw7sOJc5knFHDAw0XOnBB1cVA70";
+    
 
 
     var eRoute = null;
